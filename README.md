@@ -2,7 +2,7 @@
 
 **Tech Lead & .NET Architect** · Azure · Event-Driven Architecture · Enterprise Integration
 
-I lead engineering teams of 6+ building the .NET and Azure platforms behind HUGO BOSS's global digital business — event-driven services connecting e-commerce, ERP and CRM. 14 years in software, 9 on this platform.
+I lead engineering teams of 6+ building the .NET and Azure platforms behind the global digital business of an international fashion & retail group — event-driven services connecting e-commerce, ERP and CRM. 14 years in software, 9 on this platform.
 
 ### Where my work sits
 - 🏗️ **Architecture** — distributed, event-driven systems on Kafka, RabbitMQ and Azure Service Bus; secure .NET APIs with CQRS, Minimal APIs, DDD and SOLID
