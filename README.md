@@ -17,6 +17,8 @@ I lead engineering teams of 6+ building the .NET and Azure platforms behind the 
 PSM I · PSPO I · Career Essentials in GitHub Copilot · MCSD (Web Applications, SharePoint Apps) · MCSA Web Applications · Microsoft Specialist: Programming in C#
 
 ### Featured
+- **[SpeechDesk](https://github.com/fmrgcarvalho/speechdesk)** — 100% local voice dictation for Windows (C# / .NET 8, WPF): on-device speech recognition with Parakeet & Whisper, optional local-LLM clean-up and PT→EN translation
+- **[FamilyDesk](https://github.com/fmrgcarvalho/familydesk)** — family wall dashboard that brings an old iPad back to life: Node.js server aggregating calendars, weather, traffic and school schedules, plus a subscribable iPhone calendar
 - **[G-FinanceSuite](https://github.com/fmrgcarvalho/G-FinanceSuite)** — browser-based duplicate detection & financial reconciliation, 340k+ records client-side
 
 [Portfolio](https://fmrgcarvalho.com) · [LinkedIn](https://linkedin.com/in/fmrgcarvalho) · fmrgcarvalho@gmail.com
