@@ -29,6 +29,5 @@ PSM I · PSPO I · Career Essentials in GitHub Copilot · MCSD (Web Applications
 - **AgentDesk** — self-hosted .NET portal for building and scheduling autonomous AI agents: describe an agent in plain text, schedule it as a recurring job, and run it headless on a local Claude Code runtime (`claude -p`), with full control over runs and outputs · *private, in progress*
 - **[SpeechDesk](https://github.com/fmrgcarvalho/speechdesk)** — 100% local voice dictation for Windows (C# / .NET 8, WPF): on-device speech recognition with Parakeet & Whisper, optional local-LLM clean-up and PT→EN translation
 - **[FamilyDesk](https://github.com/fmrgcarvalho/familydesk)** — family wall dashboard that brings an old iPad back to life: Node.js server aggregating calendars, weather, traffic and school schedules, plus a subscribable iPhone calendar
-- **[G-FinanceSuite](https://github.com/fmrgcarvalho/G-FinanceSuite)** — browser-based duplicate detection & financial reconciliation, 340k+ records client-side
 
 [Portfolio](https://fmrgcarvalho.com) · [LinkedIn](https://linkedin.com/in/fmrgcarvalho) · fmrgcarvalho@gmail.com
